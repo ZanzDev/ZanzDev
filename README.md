@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZanzDev
+- 👀 I’m interested in modding in FNF!
+- 🌱 I’m currently learning coding!
+- 👌 I use Visual Studio Code for coding.
